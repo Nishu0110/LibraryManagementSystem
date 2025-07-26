@@ -25,3 +25,6 @@ A standalone java Swing-based application to manage books in a library.
    * As you run the project name LoginScreen use default Credentials to login.(**Admin** Username:admin1 Password:adminpass & **Librarian** Username:librarian1 Password:libpass)
    * Login Successfull... Congrats..!!! Start adding books and Managing it in your own way.
    * Thankyou !!!!   
+
+****Author***
+**Nishant Gharat**
