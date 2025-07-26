@@ -21,7 +21,7 @@ A standalone java Swing-based application to manage books in a library.
    * i have created "library_db" database and created two tables 1. users. 2.books.
    * in users table i have added the name,password,role (here you can add custom password if you want).
    * in books table i have added attributes like id,title,author,satus.
-   * Then import project into Eclipse make sure you add the JDBC driver to your classpath to connect it to your database.
+   * Then import project or ClassFile(Total 4) into Eclipse make sure you add the JDBC driver to your classpath to connect it to your database.
    * As you run the project name LoginScreen use default Credentials to login.(**Admin** Username:admin1 Password:adminpass & **Librarian** Username:librarian1 Password:libpass)
    * Login Successfull... Congrats..!!! Start adding books and Managing it in your own way.
    * Thankyou !!!!   
