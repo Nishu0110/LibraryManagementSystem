@@ -1,6 +1,6 @@
 -----Java Library Management System-------
 
-A standalone java Swing-based application to manage books in a library.
+A standalone Java Swing-based Simple application to manage books in a library.
 
 
 1) Features
