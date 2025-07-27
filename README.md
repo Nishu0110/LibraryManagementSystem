@@ -32,7 +32,11 @@ A standalone Java Swing-based Simple application to manage books in a library.
    * Make sure you already created the database and created all the necessary tables and attributes in Mysql.
    * Time to Run your project open the LoginScreen.java File and Run it.
    * You will see the Login Page just enter the username & password and start adding and managing books.
-   * Thankyou !!!!   
+   * Thankyou !!!!
+
+5) Option C
+   * This is the easy and fastest way to run the Project without coding.
+   * Just open the folder which I have uploaded(Runnable jar file) just follow the README steps 
 
 ****Author***
 **Nishant Gharat**
