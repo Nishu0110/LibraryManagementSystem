@@ -7,9 +7,9 @@ public class DBConnection {
 	
 	private static final String url = "jdbc:mysql://localhost:3306/library_db";
 	
-	private static final String user = "your username";
+	private static final String user = "your username of sql";
 	
-	private static final String password = "your password";
+	private static final String password = "your password of sql";
 	
 	//connection of DB
 	
